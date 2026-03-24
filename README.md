@@ -1,6 +1,6 @@
 ![Elist Logo](eList_Logo_50x50.fw.png) 
 # eList Post-Pandemic Sales Analysis #
-An executive summary of retail computing devices sales performance from 2020. Sales & marketing history data beginning that year and for the next 3 years was analyzed to uncover key performance insights and to solicit valuable marketing & operational strategies to mitigate the slowing demand for houshold computing devices post-pandemic.
+This executive summary analyzes retail computing device sales from 2020 through 2023, offering a 3-year performance analysis. It identifies key trends and, based on sales and marketing data, provides strategic recommendations for operations and marketing to mitigate slowing household demand in the post-pandemic market.
 
 # Visuals #
 ** Visuals Placeholder **
