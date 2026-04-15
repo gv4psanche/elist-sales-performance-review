@@ -4,6 +4,7 @@
 </div>
 
 # <div align="center">FY19-FY22 Sales Performance Review</div> #
+A structured analysis of sales trends, growth rates, loyalty program ROR, and order economics
 
 ### <div align="center">Background</div> ###
 **EList** is a US-based e-commerce company that sells top-brand consumer electronics and accessories like Apple, Samsung, and ThinkPad to a global clientele. The company has grown and expanded since it's launch in 2018 and has encountered increasing competitive pressures within the industry as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
