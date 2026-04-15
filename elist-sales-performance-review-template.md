@@ -1,22 +1,25 @@
-# Sales Performance Review
+<!-- ![Elist Logo](eList_Logo_100x100.fw.png)-->
+<div align="center"><img src="eList_Logo_100x100.fw.png"></div>
 
-> A structured analysis of sales trends, growth rates, loyalty program ROI, and order economics
+# <div align="center">Sales Performance Review</div>
 
-**Period:** Q1 – Q3 2025 &nbsp;|&nbsp; **Team:** Revenue Analytics &nbsp;|&nbsp; **Last updated:** Apr 2025
+<div align="center">A structured analysis of sales trends, growth rates, loyalty program ROI, and order economics</div>
+
+<div align="center"><b>Period:</b> Q1 2019 – Q4 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Last updated:</b> Apr 2023</div>
 
 ---
 
-## Executive Summary · Slide 02
+## Executive Summary
 
 **Strong momentum across all four metrics — three clear actions follow.**
 
-![Sales up YoY](https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square) ![AOV](https://img.shields.io/badge/AOV-%2B%2433-2da44e?style=flat-square) ![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square) ![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square) ![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)
+![Sales up YoY](https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square)&nbsp;&nbsp;&nbsp;![AOV](https://img.shields.io/badge/AOV-%2B%2433-2da44e?style=flat-square)&nbsp;&nbsp;&nbsp;![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square)&nbsp;&nbsp;&nbsp;![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)&nbsp;&nbsp;&nbsp;![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square)
 
 ---
 
 ## 1. Overall Sales Trends
 
-### Slide 03 — Sales Momentum Accelerated Each Quarter — Full-Year Revenue Hit a Three-Year High
+### Sales Momentum Accelerated Each Quarter — Full-Year Revenue Hit a Three-Year High
 
 *Visualization: Line chart · full period · annotate inflection points*
 
@@ -24,7 +27,7 @@
 
 ---
 
-### Slide 04 — Growth Was Broad-Based — All Three Channels Contributed to the Upswing
+### Growth Was Broad-Based — All Three Channels Contributed to the Upswing
 
 *Visualization: Channel breakdown · stacked bar or small multiples*
 
@@ -36,7 +39,7 @@
 
 ## 2. Monthly & Yearly Growth Rates
 
-### Slide 05 — Year-Over-Year Growth Reached 22% — Monthly Gains Show the Trend Is Holding
+### Year-Over-Year Growth Reached 22% — Monthly Gains Show the Trend Is Holding
 
 *Visualization: Dual chart · MoM rate left · YoY rate right*
 
@@ -44,7 +47,7 @@
 
 ---
 
-### Slide 06 — Seasonality Explains the Mid-Year Dip — Adjusted Growth Remains On Track
+### Seasonality Explains the Mid-Year Dip — Adjusted Growth Remains On Track
 
 *Visualization: Seasonality-adjusted overlay · rule out alternative explanations*
 
@@ -52,7 +55,7 @@
 
 ## 3. Loyalty Program Performance
 
-### Slide 07 — Loyalty Members Spend 40% More Per Visit — the Program Is Driving Real Revenue
+### Loyalty Members Spend 40% More Per Visit — the Program Is Driving Real Revenue
 
 *Visualization: Member vs. non-member comparison · spend, retention, redemption rate*
 
@@ -62,7 +65,7 @@
 
 ---
 
-### Slide 08 — The Verdict: Keep the Program — and Double Down on These Two Improvements
+### The Verdict: Keep the Program — and Double Down on These Two Improvements
 
 *Direct recommendation · evidence-backed · answers "should we keep it?"*
 
@@ -70,7 +73,7 @@
 
 ## 4. Refund Rates & Average Order Value
 
-### Slide 09 — Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
+### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
 
 *Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
 
@@ -78,7 +81,7 @@
 
 ---
 
-### Slide 10 — Higher AOV Is Driven by Bundle Purchases — Not Just Price Increases
+### Higher AOV Is Driven by Bundle Purchases — Not Just Price Increases
 
 *Visualization: AOV decomposition · bundles vs. single-item vs. price lift*
 
@@ -89,7 +92,7 @@
 
 ## 5. Next Steps
 
-### Slide 11 — Three Priorities for Next Quarter — With Owners and Deadlines
+### Three Priorities for Next Quarter — With Owners and Deadlines
 
 | Priority | Action |
 |---|---|
@@ -99,4 +102,4 @@
 
 ---
 
-*Acme Corp · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
+*Elist Corp · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
