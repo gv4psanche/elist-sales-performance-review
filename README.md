@@ -1,8 +1,10 @@
-<!-- ![Elist Logo](eList_Logo_100x100.fw.png)-->
-<div align="center"><img src="elist-ppt-banner-logo3.png"></div>
-<!--
+<!-- ![Bits&Bytes Logo](Bits&Bytes_Logo_100x100.fw.png)--><!--img src="Bits&Bytes-ppt-banner-logo3.png"-->
+<div align="center">
+ <img src="bits_and_bytes_logo.svg" width="150" alt="bits&bytes logo" /><br>
+</div>
+
 # <div align="center">Sales Performance Review</div>
--->
+
 <div align="center">A structured analysis of sales trends, growth rates, loyalty program ROI, and order economics</div>
 
 <div align="center"><b>Period:</b> Q1 2019 – Q4 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Last updated:</b> Apr 2023</div>
@@ -102,19 +104,19 @@
 
 ---
 
-*EList Commerce Inc. · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
+*Bits&Bytes Commerce Inc. · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
 
 ---
 
 ## About Project 
 ### Company
-**EList** is a US-based e-commerce company that sells top-brand consumer electronics and accessories like Apple, Samsung, and ThinkPad to a global clientele. The company has grown and expanded since it's launch in 2018 and has encountered increasing competitive pressures within the industry as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
+**Bits&Bytes Commerce Inc.(B&B)** is a privately held eCommerce company based in Houston Texas that sells top-brand consumer electronics and accessories like Apple, Samsung, and ThinkPad to a global clientele. The company has successfuly pivoted, grown and expanded since it's launch in 2018 from being a B2B reseller to a Direct-to-Consumer retailer. At the beginning of 2020, it has encountered increasing competition within the industry as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
 
 ### Operational Data
-**EList’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.
+**B&B’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.
 
  ### The Ask
-In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **EList’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance **EList’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
+In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **B&B’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that Angie Lopez(Head of Operations) and the various internal cross-functional teams will utilize to streamline processes and enhance **B&B’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
  
 #### Northstar Metrics
 * **Sales trends** - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
