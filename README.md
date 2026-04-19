@@ -1,6 +1,6 @@
 <!-- ![Bits&Bytes Logo](Bits&Bytes_Logo_100x100.fw.png)--><!--img src="Bits&Bytes-ppt-banner-logo3.png"-->
 <div align="center">
- <img src="bits_and_bytes_logo.svg" width="150" alt="bits&bytes logo" /><br>
+ <img src="bits_and_bytes_logo.svg" width="200" alt="bits&bytes logo" /><br>
 </div>
 
 # <div align="center">Sales Performance Review</div>
