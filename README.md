@@ -39,32 +39,37 @@ _	Underscore	5F (%5F)
  <img src="bits_and_bytes_chart_revenue_trend.png" width="850" alt="revenue chart" /><br>
 </div>
 
-<table cellpadding="10">
+<table>
  <tr>
   <td>
    <div>
-    <ul><b>Revenue Growth and Peak Performance:</b>
-    <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-    <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
-    <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
+    <b>Revenue Growth and Peak Performance:</b>
+    <ul>
+     <li>FY2019-FY201 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
+     <li>FY2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
+    <li>Q4 FY2020 saw revenue peaked at $3M ($1.25M in December 2020), making it the best-performing period.</li>    
     </ul>
    </div>
    <div>
-    <ul><b>Declining Trend in 2021</b>
-    <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
-    <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
+    <b>Declining Trend in 2021</b>
+    <ul>
+     <li>Q1-Q2 FY2021 saw the beginning of the market cooling down by $1M.</li>
+     <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
+     <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
     </ul>
    </div>
   </td>
   <td>
    <div>
-    <ul><b>Quarterly Insights & Seasonal Trends</b>
+    <b>Quarterly Insights & Seasonal Trends</b>
+    <ul>
     <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
     <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
     </ul>
    </div>
    <div>
-    <ul><b>Key Takeaways & Recommendations</b>
+    <b>Key Takeaways & Recommendations</b>
+    <ul>
     <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
     <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
     <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
@@ -72,10 +77,6 @@ _	Underscore	5F (%5F)
    </div>
   </td>
  </tr>
- <!--tr>
-  <td>2</td>
-  <td>2</td>
-</tr-->
 </table>
 
 ---
