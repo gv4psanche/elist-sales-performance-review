@@ -1,5 +1,5 @@
 <!-- ![Bits&Bytes Logo](Bits&Bytes_Logo_100x100.fw.png)--><!--img src="Bits&Bytes-ppt-banner-logo3.png"-->
-<div align="center"><img src="bits_and_bytes_logo.svg" width="200" alt="bits&bytes logo" /></div>
+<div align="center"><img src="bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /></div>
 
 # <div align="center">Sales Performance Review</div>
 
@@ -30,7 +30,7 @@ _	Underscore	5F (%5F)
 
 ---
 
-## 1. Overall Sales Trends
+## 1. Overall Sales Trends (2019-2022)
 
 ### FY22 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
@@ -39,9 +39,48 @@ _	Underscore	5F (%5F)
  <img src="bits_and_bytes_chart_revenue_trend.png" width="850" alt="revenue chart" /><br>
 </div>
 
+<table cellpadding="10">
+ <tr>
+  <td>
+   <div>
+    <ul><b>Revenue Growth and Peak Performance:</b>
+    <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
+    <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
+    <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
+    </ul>
+   </div>
+   <div>
+    <ul><b>Declining Trend in 2021</b>
+    <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
+    <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
+    </ul>
+   </div>
+  </td>
+  <td>
+   <div>
+    <ul><b>Quarterly Insights & Seasonal Trends</b>
+    <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
+    <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
+    </ul>
+   </div>
+   <div>
+    <ul><b>Key Takeaways & Recommendations</b>
+    <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
+    <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
+    <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <!--tr>
+  <td>2</td>
+  <td>2</td>
+</tr-->
+</table>
+
 ---
 
-### Growth Was Broad-Based — All Three Channels Contributed to the Upswing
+### Growth Was Broad-Based — All Four Channels Contributed to the Upswing
 
 *Visualization: Channel breakdown · stacked bar or small multiples*
 
@@ -54,7 +93,7 @@ _	Underscore	5F (%5F)
 
 ## 2. Monthly & Yearly Growth Rates
 
-### Year-Over-Year Growth Reached 22% — Monthly Gains Show the Trend Is Holding
+### Year-Over-Year Growth Reached 22% — Monthly Declines Show the Trend Is Declining
 
 *Visualization: Dual chart · MoM rate left · YoY rate right*
 
