@@ -1,5 +1,5 @@
 <!-- ![Bits&Bytes Logo](Bits&Bytes_Logo_100x100.fw.png)--><!--img src="Bits&Bytes-ppt-banner-logo3.png"-->
-<div align="center"><img src="bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /></div>
+<div align="center"><a href="#about-the-project"><img src="bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /></a></div>
 
 # <div align="center">Sales Performance Review</div>
 
@@ -24,13 +24,13 @@ Character 	Name	Hex Code (Percent Encoded)
 -	Hyphen-minus	2D (%2D)
 _	Underscore	5F (%5F)
 .	Period	2E (%2E)
-
-![Sales down YoY](https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp;
-![AOV](https://img.shields.io/badge/AOV--%2D%24230-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp;
-![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)&nbsp;&nbsp;&nbsp;
-![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square)&nbsp;&nbsp;&nbsp;
-![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square)
 -->
+<!--![Sales down YoY](https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp; -->
+<!--![AOV](https://img.shields.io/badge/AOV--%2D%24230-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp; -->
+<!--![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)&nbsp;&nbsp;&nbsp; -->
+<!--![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square)&nbsp;&nbsp;&nbsp; -->
+<!--![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square) -->
+
 ---
 
 ## 1. Overall Sales Trends (2019-2022)
@@ -88,7 +88,7 @@ _	Underscore	5F (%5F)
 
 *Visualization: Channel breakdown · stacked bar or small multiples*
 
-- **Direct:** -49% YoY
+- **Direct:** <span style="color:red">-49% YoY</span>
 - **Social Media:** -56% YoY
 - **Email:** -37% YoY
 - **Affiliate:** -33% YoY
@@ -190,6 +190,9 @@ _	Underscore	5F (%5F)
  <img src="bits_and_bytes_chart_refrate_aov.png" width="550" alt="revenue chart" /><br>
 </div>
 
+- **Realistic Industry Benchmark → 5% - 10%**
+- **Price increase** contributed only $4 of $33 AOV gain
+
 ---
 
 ### Higher AOV Is Driven by Premium Laptop Purchases — Accounts for elevated returns as well
@@ -198,7 +201,13 @@ _	Underscore	5F (%5F)
 
 - **Bundle attach rate** grew from 22% → 41%
 - **Price increase** contributed only $4 of $33 AOV gain
-
+- **Free shipping threshold**
+- **Discounts over spend threshold**
+- **Bundle deals**
+- **Gift Cards**
+- **Cross sells and Upsells**
+- **Free Gift**
+- 
 ---
 
 ## 5. Next Steps
@@ -208,14 +217,48 @@ _	Underscore	5F (%5F)
 | Priority | Action |
 |---|---|
 | **Priority 1** | Expand loyalty tier structure |
-| **Priority 2** | Scale bundle merchandising |
-| **Priority 3** | Address Q2 refund root cause |
+| **Priority 2** | Scale bundle merchandising + other mktg pgm  (Increeased AOV is the Goal) |
+| **Priority 3** | Address Q2 FY2022 refund issue root cause (Low Refund Rate is the Goal) |
+
+<table>
+ <tr>
+  <td valign="top">
+   <div>
+    <b>Quarterly Insights & Seasonal Trends</b>
+    <ul>
+    <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
+    <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
+    </ul>
+   </div>
+   <div>
+    <b>Key Takeaways & Recommendations</b>
+    <ul>
+    <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
+    <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
+    <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
+    </ul>
+   </div>
+</td>
+ </tr>
+ <tr>
+  <td><b>Priority 1</b></td>
+  <td></td>
+ </tr>
+ <tr></tr>
+  <td><b>Priority 2</b></td>
+  <td></td> 
+ <tr>
+  <td><b>Priority 3</b></td>
+  <td></td>
+ </tr>
+</table>
 
 ---
 
 *Bits&Bytes Commerce Inc. · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
 
 ---
+
 
 ## About The Project 
 
