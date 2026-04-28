@@ -88,56 +88,50 @@ _	Underscore	5F (%5F)
 
 ### Negative Performance Was Universal — All Four Channels Suffered Severe Sales Losses
 
-*Visualization: Channel breakdown · stacked bar or small multiples*
+<!-- *Visualization: Channel breakdown · stacked bar or small multiples*  
+- **Direct:** 🡻 49% YoY</span>
+- **Social Media:** 🡻 56% YoY
+- **Email:** 🡻 37% YoY
+- **Affiliate:** 🡻 33% YoY
+-->
 
-- **Direct:** <span style="color:red">-49% YoY</span>
-- **Social Media:** -56% YoY
-- **Email:** -37% YoY
-- **Affiliate:** -33% YoY
-
-<div align="center">
+<div align="left">
  <img src="images/bits_and_bytes_sales_by_channel.png" alt="revenue by channel" /><br>
 </div>
 
-<table>
+<br>
+
+<table width"100%">
  <tr>
   <td valign="top">
    <div>
-    <b>Revenue Growth and Peak Performance:</b>
     <ul>
-     <li>FY2019-FY201 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
-     <li>FY2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-    <li>Q4 FY2020 saw revenue peaked at $3M ($1.25M in December 2020), making it the best-performing period.</li>    
-    </ul>
-   </div>
-   <div>
-    <b>Declining Trend in 2021</b>
-    <ul>
-     <li>Q1-Q2 FY2021 saw the beginning of the market cooling down by $1M.</li>
-     <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
-     <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
-    </ul>
+     <li>
+      <b>Direct:</b> 🡻 49% YoY 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     </li>
+     <li>
+      <b>Social Media:</b> 🡻 56% YoY 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     </li>
+     <li>
+      <b>Email:</b> 🡻 37% YoY 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     </li>
+     <li>
+      <b>Affiliate:</b> 🡻 33% YoY 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     </li>    
+    </ul>    
    </div>
   </td>
-  <!--td valign="top">
-   <div>
-    <b>Quarterly Insights & Seasonal Trends</b>
-    <ul>
-    <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
-    <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
-    </ul>
-   </div>
-   <div>
-    <b>Key Takeaways & Recommendations</b>
-    <ul>
-    <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
-    <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
-    <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
-    </ul>
-   </div>
-</td-->
  </tr>
 </table>
+
 <br />
 
 ---
