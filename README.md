@@ -50,7 +50,7 @@ _	Underscore	5F (%5F)
    <div>
     <b>Revenue Growth and Peak Performance:</b>
     <ul>
-     <li>FY2019-FY201 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
+     <li>FY2019-FY2021 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
      <li>FY2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
     <li>Q4 FY2020 saw revenue peaked at $3M ($1.25M in December 2020), making it the best-performing period.</li>    
     </ul>
